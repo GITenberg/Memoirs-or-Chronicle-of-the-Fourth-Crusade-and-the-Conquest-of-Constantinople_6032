@@ -1,0 +1,30 @@
+_repo: Memoirs-or-Chronicle-of-the-Fourth-Crusade-and-the-Conquest-of-Constantinople_6032
+creator:
+  author:
+    agent_name: Villehardouin, Geoffroi de
+    aliases:
+    - Villehardouin, Geoffroy de
+    - De Villehardouin, Geoffroi
+    birthdate: 1150
+    deathdate: 1212
+    gutenberg_agent_id: '1916'
+    url: http://www.gutenberg.org/2009/agents/1916
+    wikipedia: http://en.wikipedia.org/wiki/Geoffrey_of_Villehardouin
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6032'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crusades -- Fourth, 1202-1204'
+- !lcsh 'Venice (Italy) -- History -- 697-1508'
+- !lcsh 'Istanbul (Turkey) -- History'
+- !lcc 'D'
+- !lcsh 'Latin Empire, 1204-1261'
+- !lcsh 'Byzantine Empire -- History -- To 527'
+title: Memoirs or Chronicle of the Fourth Crusade and the Conquest of Constantinople
+url: http://www.gutenberg.org/ebooks/6032
