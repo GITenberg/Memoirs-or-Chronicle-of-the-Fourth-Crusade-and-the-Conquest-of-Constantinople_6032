@@ -1,5 +1,5 @@
 _repo: Memoirs-or-Chronicle-of-the-Fourth-Crusade-and-the-Conquest-of-Constantinople_6032
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcc 'D'
 - !lcsh 'Latin Empire, 1204-1261'
 - !lcsh 'Byzantine Empire -- History -- To 527'
+- GITenberg
 title: Memoirs or Chronicle of the Fourth Crusade and the Conquest of Constantinople
 url: http://www.gutenberg.org/ebooks/6032
